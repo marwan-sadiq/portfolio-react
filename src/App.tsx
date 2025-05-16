@@ -53,7 +53,7 @@ const App = () => {
     description: "A delivery app for ordering gas cylinders with live tracking, real-time driver updates, and a full admin management system.",
     tech: ["React", "Firebase", "CSS"], // List your tech stack
     demo: "", // Add your live demo link if you have one
-    github: "https://github.com/marwan-sadiq/gas-clynder-delivery-app"
+    github: "https://github.com/marwan-sadiq/portfolio-react"
   };
 
   return (
