@@ -5,9 +5,7 @@ import { collection, addDoc } from 'firebase/firestore';
 import delivery from './assets/delivery.png';
 import profile from './assets/profile.png';
 
-
-
-function App() {
+const App = () => {
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [submitStatus, setSubmitStatus] = useState<{ type: 'success' | 'error' | null; message: string }>({ type: null, message: '' });
 
