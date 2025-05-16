@@ -30,7 +30,7 @@ A modern, responsive portfolio website built with React, TypeScript, and Firebas
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/portfolio-react.git
+git clone https://github.com/marwan-sadiq/portfolio-react.git
 cd portfolio-react
 ```
 
@@ -78,5 +78,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-Project Link: [https://github.com/yourusername/portfolio-react](https://github.com/yourusername/portfolio-react)
+Marwan - [@marwan_sadiq](https://twitter.com/marwan_sadiq)
+Project Link: [https://github.com/marwan-sadiq/portfolio-react](https://github.com/marwan-sadiq/portfolio-react)
